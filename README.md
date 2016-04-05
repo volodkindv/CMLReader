@@ -1,0 +1,1 @@
+Парсинг CommerceML v2.08
