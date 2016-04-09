@@ -1,0 +1,11 @@
+﻿026db3a8-9484-4c97-a067-4cd074b5ac5d-->und\026db3a8-9484-4c97-a067-4cd074b5ac5d
+026db3a8-9484-4c97-a067-4cd074b5ac5d.0-->Form\Форма
+6124d842-e985-4328-a232-d93f516e0f08-->und\6124d842-e985-4328-a232-d93f516e0f08
+6124d842-e985-4328-a232-d93f516e0f08.0-->Form\УФорма\Форма.txt
+71d55da9-bf6e-4c2c-a925-5dee10b5d7f7.0\info-->und\71d55da9-bf6e-4c2c-a925-5dee10b5d7f7.0\info
+71d55da9-bf6e-4c2c-a925-5dee10b5d7f7.0\text-->ObjectModule.txt
+copyinfo-->und\copyinfo
+e1632f32-c4f1-4c7e-84f2-4d78103356bf-->und\e1632f32-c4f1-4c7e-84f2-4d78103356bf
+root-->und\root
+version-->und\version
+versions-->und\versions
